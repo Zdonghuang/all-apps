@@ -1,0 +1,14 @@
+<div id="app" v-cloak>
+  <app-nav />
+
+  <main>
+    <router-view />
+  </main>
+
+  <cart v-if="showCart" />
+</div>
+<style>
+  [v-cloak]{
+			display: none;
+		}
+</style>

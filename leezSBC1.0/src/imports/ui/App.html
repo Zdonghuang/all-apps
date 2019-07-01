@@ -1,0 +1,13 @@
+<div id="app">
+  <app-nav />
+
+  <main>
+    <!-- <v-touch v-on:swipeleft="onSwipeLeft" v-on:swiperight="onSwipeRight" -->
+              <!-- :swipe-options="{direction: 'horizontal'}"  tag="div"> -->
+      <router-view />
+    <!-- </v-touch> -->
+  </main>
+
+  <cart v-if="showCart" />
+</div>
+
