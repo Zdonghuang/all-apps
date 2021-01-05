@@ -7,7 +7,7 @@
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.46",
     "apollo-client": "^1.9.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcrypt": "^1.0.3",
     "core-js": "^2.5.3",
     "intersection-observer": "^0.4.3",
