@@ -11,7 +11,7 @@
     "core-js": "^2.5.3",
     "intersection-observer": "^0.4.3",
     "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "marker-clusterer-plus": "^2.1.4",
     "meteor-node-stubs": "^0.3.2",
     "moment": "^2.20.1",
